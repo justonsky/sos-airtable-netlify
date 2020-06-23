@@ -1,0 +1,23 @@
+{
+  "name": "sos-airtable-netlify",
+  "version": "1.0.0",
+  "description": "Netlify lambda functions used to interact with Airtable",
+  "main": "index.js",
+  "dependencies": {
+    "airtable": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justonsky/sos-airtable-netlify.git"
+  },
+  "author": "Summer of Shipping",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justonsky/sos-airtable-netlify/issues"
+  },
+  "homepage": "https://github.com/justonsky/sos-airtable-netlify#readme"
+}
